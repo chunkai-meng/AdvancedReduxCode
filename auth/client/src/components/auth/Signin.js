@@ -19,7 +19,7 @@ class Signin extends Component {
         <fieldset>
           <label>Email</label>
           <Field
-            name="email"
+            name="username"
             type="text"
             component="input"
             autoComplete="none"
